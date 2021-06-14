@@ -1,6 +1,6 @@
 # Weather-app
 Simple weather app developed using Kotlin
-Working on this project helped me get started with Kotlin. This app assisted me with learning about Coroutines, teached me how to fetch data from API's using retrofit and how to get the user's location.
+Working on this project helped me get started with Kotlin. This app assisted me with learning about Kotlin Coroutines, teached me how to fetch data from API's using retrofit and how to get the user's location.
 //code is in master branch.
 
 APP DEMO
