@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_enable_gps">Enable GPS</string>
+    <string name="desc_enable_gps">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="btn_settings">Open Settings</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
